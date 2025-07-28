@@ -3,7 +3,7 @@ package com.mayank;
 public class LongestCommonSubSequence {
 
   public static void main(String[] args) {
-	String  x = "abcdgh";
+	String x = "abcdgh";
 	String y = "abedfhr";
 	
 	System.out.println(lcs(x,y));
